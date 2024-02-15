@@ -1,0 +1,109 @@
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\Proprete.mdf
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\Proprete_log.ldf
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.exe.config
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.exe
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\BLL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\DAL.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\Guna.UI.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\BLL.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\DAL.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Accueil.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ChoixConnexion.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ConnexionUsers.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.CreerCompteUsers.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Properties.Resources.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.exe
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.pdb
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\bin\Debug\Guna.UI2.dll
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Signalement.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ChoixAdministrateur.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Utilisateurs.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Ordures.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.AdminFormulaire.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Admin.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Equipe.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.test.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ConnectAdmin.resources
+C:\Users\Naturelle\Desktop\IUC\PAM2\MULTICOUCHE\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.FormSplash.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.exe.config
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.exe
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.pdb
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\Proprete.mdf
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\Proprete_log.ldf
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.exe
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.pdb
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\BLL.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\DAL.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\BLL.pdb
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\DAL.pdb
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Accueil.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Admin.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.AdminFormulaire.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ChoixAdministrateur.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ChoixConnexion.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ConnexionUsers.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.CreerCompteUsers.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Equipe.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ConnectAdmin.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.FormSplash.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Ordures.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Properties.Resources.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Signalement.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.test.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Utilisateurs.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\GUI.csproj.GenerateResource.Cache
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Rapport.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ReportsForm.UserReport.resources
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\AxShockwaveFlashObjects.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.Shared.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\ShockwaveFlashObjects.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\stdole.dll
+G:\PAM2\Support de cours\PDF\C#\ProjetHygiene\ProjetHygiene\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.exe.config
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.exe
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.pdb
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\Proprete.mdf
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\Proprete_log.ldf
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.exe
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\ProjetHygiene.pdb
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\BLL.dll
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\DAL.dll
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\BLL.pdb
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\bin\Debug\DAL.pdb
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Accueil.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Admin.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.AdminFormulaire.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ChoixAdministrateur.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ChoixConnexion.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ConnexionUsers.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.CreerCompteUsers.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Equipe.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ConnectAdmin.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.FormSplash.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Ordures.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Properties.Resources.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Rapport.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.ReportsForm.UserReport.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Signalement.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.test.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\ProjetHygiene.Utilisateurs.resources
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Mr Richy\Desktop\ProjetHygiene\ProjetHygiene\obj\Debug\GUI.csprojResolveAssemblyReference.cache
